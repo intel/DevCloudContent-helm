@@ -31,7 +31,7 @@ entries:
     name: sra-evam-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sra-evam-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/srihari/springboard/sra-evam-helm-0.1.0.tgz
     version: 0.1.0
   sra-helm:
   - apiVersion: v2
