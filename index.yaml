@@ -25,13 +25,13 @@ entries:
   sra-evam-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-05T12:02:13.838785848+05:30"
+    created: "2022-12-06T11:26:26.946078906+05:30"
     description: A Helm chart for Kubernetes
-    digest: 8193460f389331a539bed5649e6db6cb469096b6d56fbed59fef3a44fe6176c0
+    digest: ca6c410ab44e52022d3422de417280276efc4e19229d0c7dc5e34a072be2fcdc
     name: sra-evam-helm
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/srihari/springboard/sra-evam-helm-0.1.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/sra-evam-helm-0.1.0.tgz
     version: 0.1.0
   sra-helm:
   - apiVersion: v2
@@ -55,4 +55,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/itm-https.tgz
     version: 0.1.0
-generated: "2022-12-05T12:02:13.518799507+05:30"
+generated: "2022-12-06T11:26:26.616057922+05:30"
