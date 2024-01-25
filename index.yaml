@@ -88,4 +88,16 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/genai.tgz
     version: 0.1.0
+  crashlog-analyser:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: '2024-01-25T05:06:16.655Z'
+    description: A Helm chart for Crash Log Analyser usecase
+    digest: 9b502be0d34d0fa8521fa453f3073fb8b64ec9ebb85d2b134de1f1ea24bae841
+    name: crashlog-analyser
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/crash-log-ri-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-19T11:35:49.32107023+05:30"
 generated: "2023-11-19T11:35:49.32107023+05:30"
