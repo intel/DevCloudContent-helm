@@ -71,7 +71,7 @@ entries:
       appVersion: 1.16.0
       created: "2024-01-25T05:06:16.655Z"
       description: A Helm chart for GenAI production support usecase
-      digest: ffee63b54d4cff3fe1b9e52b7c5443bc841a865d1d5ea1d86d3a2b42fb1e781d
+      digest: 61040ddf41b3cf6ab5c60c39d4bc9ba5884f5d41773e8e2820aedd33577e1304
       name: genai
       type: application
       urls:
