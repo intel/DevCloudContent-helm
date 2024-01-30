@@ -77,4 +77,15 @@ entries:
       urls:
         - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/genai.tgz
       version: 0.1.0
+  nginx-ingress:
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2024-01-25T05:06:16.655Z"
+      description: A Helm chart for NGNIX application.
+      digest: 76c7804c0a67057d053dfe858e2334ef7e528b36b87dc827feecd8c683e78ce5
+      name: nginx
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-demo/ingress-nginx-main.tar.gz
+      version: 0.1.0
 generated: "2023-11-19T11:35:49.32107023+05:30"
