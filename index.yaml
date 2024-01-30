@@ -75,6 +75,6 @@ entries:
       name: genai
       type: application
       urls:
-        - https://raw.githubusercontent.com/anshul-wagadre/DevCloudContent-helm/springboard-staging/genai.tgz
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/genai.tgz
       version: 0.1.0
 generated: "2023-11-19T11:35:49.32107023+05:30"
