@@ -1,80 +1,80 @@
 apiVersion: v1
 entries:
   sca-evam-helm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-30T11:38:07.710817971+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 69843b936a8b1d887f907c15196ddf69ea723a0e99cb322afacef46882d5c213
-    name: sca-evam-helm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sca-evam-helm-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-08-30T11:38:07.710817971+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 69843b936a8b1d887f907c15196ddf69ea723a0e99cb322afacef46882d5c213
+      name: sca-evam-helm
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sca-evam-helm-0.1.0.tgz
+      version: 0.1.0
   social-distancing-retail:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-30T11:38:07.711805256+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
-    name: social-distancing-retail
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/social-distancing-retail.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-08-30T11:38:07.711805256+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
+      name: social-distancing-retail
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/social-distancing-retail.tgz
+      version: 0.1.0
   sra-evam-helm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-30T11:38:08.005679474+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 960fffd9b37c2952d62ad72d9138688dddbc4d51039c626d9ca396af582dce35
-    name: sra-evam-helm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sra-evam-helm-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-08-30T11:38:08.005679474+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 960fffd9b37c2952d62ad72d9138688dddbc4d51039c626d9ca396af582dce35
+      name: sra-evam-helm
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sra-evam-helm-0.1.0.tgz
+      version: 0.1.0
   sra-helm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-30T11:38:08.006975453+05:30"
-    description: A Helm chart for Kubernetes
-    digest: d76e7cd663060cbea5236786818ecf89d0a9facb01bb0260b5f5b59c96ff92f9
-    name: sra-helm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sra-helm-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-08-30T11:38:08.006975453+05:30"
+      description: A Helm chart for Kubernetes
+      digest: d76e7cd663060cbea5236786818ecf89d0a9facb01bb0260b5f5b59c96ff92f9
+      name: sra-helm
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/sra-helm-0.1.0.tgz
+      version: 0.1.0
   stable-diffusion:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-30T11:38:08.00740058+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 5e0a55f55797ecc5c21d609e73f14cd77bf1fbbd6961475eeca9d731c20defdd
-    name: stable-diffusion
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/stable-diffusion.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-08-30T11:38:08.00740058+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 5e0a55f55797ecc5c21d609e73f14cd77bf1fbbd6961475eeca9d731c20defdd
+      name: stable-diffusion
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/stable-diffusion.tgz
+      version: 0.1.0
   wireless-ready-itm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-30T11:38:07.710219121+05:30"
-    description: A Helm chart for Kubernetes
-    digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
-    name: wireless-ready-itm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/itm-https.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-08-30T11:38:07.710219121+05:30"
+      description: A Helm chart for Kubernetes
+      digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
+      name: wireless-ready-itm
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/itm-https.tgz
+      version: 0.1.0
   genai:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-01-25T05:06:16.655Z"
-    description: A Helm chart for GenAI production support usecase
-    digest: 9b978b010cc8ae6c72bac24459c468a50c7a4b08985432e4f48971426d9e9393
-    name: genai
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/genai.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2024-01-25T05:06:16.655Z"
+      description: A Helm chart for GenAI production support usecase
+      digest: 443b1b7fb1e79a0c2cce1dfa63632e21ac119aab864ada3eaed878166acab419
+      name: genai
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/genai.tgz
+      version: 0.1.0
 generated: "2023-11-19T11:35:49.32107023+05:30"
