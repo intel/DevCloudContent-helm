@@ -71,10 +71,10 @@ entries:
       appVersion: 1.16.0
       created: "2024-02-13T05:59:46.576Z"
       description: A Helm chart for GenAI production support usecase
-      digest: d88d43c394517c8f23adb4c750a5960ff8bf4553b06561a11e4cfe13762fdc3b
+      digest: ec8898dc805ef3f9feaea56573f598d998f70138cbc81bb1dd8389013528f555
       name: genai
       type: application
       urls:
-        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard-staging/genai.tgz
+        - https://raw.githubusercontent.com/anshul-wagadre/DevCloudContent-helm/springboard-staging/genai.tgz
       version: 0.1.0
 generated: "2023-11-19T11:35:49.32107023+05:30"
