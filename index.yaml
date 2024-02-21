@@ -1,58 +1,69 @@
 apiVersion: v1
 entries:
   sca-evam-helm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-16T13:24:41.507841207+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 69843b936a8b1d887f907c15196ddf69ea723a0e99cb322afacef46882d5c213
-    name: sca-evam-helm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/sca-evam-helm-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-08-16T13:24:41.507841207+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 69843b936a8b1d887f907c15196ddf69ea723a0e99cb322afacef46882d5c213
+      name: sca-evam-helm
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/sca-evam-helm-0.1.0.tgz
+      version: 0.1.0
   social-distancing-retail:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-06-06T13:29:55.507100854+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
-    name: social-distancing-retail
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/social-distancing-retail.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-06-06T13:29:55.507100854+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
+      name: social-distancing-retail
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/social-distancing-retail.tgz
+      version: 0.1.0
   sra-evam-helm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-16T13:24:41.837146668+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 960fffd9b37c2952d62ad72d9138688dddbc4d51039c626d9ca396af582dce35
-    name: sra-evam-helm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/sra-evam-helm-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-08-16T13:24:41.837146668+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 960fffd9b37c2952d62ad72d9138688dddbc4d51039c626d9ca396af582dce35
+      name: sra-evam-helm
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/sra-evam-helm-0.1.0.tgz
+      version: 0.1.0
   sra-helm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-06-06T13:29:55.831057424+05:30"
-    description: A Helm chart for Kubernetes
-    digest: d76e7cd663060cbea5236786818ecf89d0a9facb01bb0260b5f5b59c96ff92f9
-    name: sra-helm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/sra-helm-0.1.0.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-06-06T13:29:55.831057424+05:30"
+      description: A Helm chart for Kubernetes
+      digest: d76e7cd663060cbea5236786818ecf89d0a9facb01bb0260b5f5b59c96ff92f9
+      name: sra-helm
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/sra-helm-0.1.0.tgz
+      version: 0.1.0
   wireless-ready-itm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-06-06T13:29:55.504933366+05:30"
-    description: A Helm chart for Kubernetes
-    digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
-    name: wireless-ready-itm
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/itm-https.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-06-06T13:29:55.504933366+05:30"
+      description: A Helm chart for Kubernetes
+      digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
+      name: wireless-ready-itm
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/itm-https.tgz
+      version: 0.1.0
+  genai:
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2024-02-21T13:10:56.141Z"
+      description: A Helm chart for GenAI production support usecase
+      digest: ec8898dc805ef3f9feaea56573f598d998f70138cbc81bb1dd8389013528f555
+      name: genai
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prod/genai.tgz
+      version: 0.1.0
 generated: "2023-08-16T13:24:41.50658633+05:30"
