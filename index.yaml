@@ -1,36 +1,47 @@
 apiVersion: v1
 entries:
   social-distancing:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-10-03T12:12:42.163048109Z"
-    description: A Helm chart for Kubernetes
-    digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
-    name: social-distancing
-    type: application
-    urls:
-    - social-distancing.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2022-10-03T12:12:42.163048109Z"
+      description: A Helm chart for Kubernetes
+      digest: 47c41e462cb757fd6d6ec36491e8add795c1491b47e40ca9a7ae480a4d63198e
+      name: social-distancing
+      type: application
+      urls:
+        - social-distancing.tgz
+      version: 0.1.0
   social-distancing-retail:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-10-03T12:12:42.159881288Z"
-    description: A Helm chart for Kubernetes
-    digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
-    name: social-distancing-retail
-    type: application
-    urls:
-    - social-distancing-retail.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2022-10-03T12:12:42.159881288Z"
+      description: A Helm chart for Kubernetes
+      digest: 12d0c3e91ecb5bb118615e2f029a7fbbe7efa757744849b45ff1b2f6dea3deb3
+      name: social-distancing-retail
+      type: application
+      urls:
+        - social-distancing-retail.tgz
+      version: 0.1.0
   wireless-ready-itm:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-10-03T12:12:42.156746973Z"
-    description: A Helm chart for Kubernetes
-    digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
-    name: wireless-ready-itm
-    type: application
-    urls:
-    - itm-https.tgz
-    version: 0.1.0
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2022-10-03T12:12:42.156746973Z"
+      description: A Helm chart for Kubernetes
+      digest: b31aaa1921208dd1051ffaf5c9757dfeae8b964d510805cb091f9e80be8ff334
+      name: wireless-ready-itm
+      type: application
+      urls:
+        - itm-https.tgz
+      version: 0.1.0
+  genai:
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2024-02-21T13:10:56.141Z"
+      description: A Helm chart for GenAI production support usecase
+      digest: e67e3982467050c402a4791bbb0a4c3a6e23e906f5b6a35f41a4e648d92e031b
+      name: genai
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/genai.tgz
+      version: 0.1.0
 generated: "2022-10-03T12:12:42.153611472Z"
