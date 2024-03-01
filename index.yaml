@@ -55,7 +55,7 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/springboard/itm-https.tgz
     version: 0.1.0
- evam-micorservice:
+  evam-micorservice:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-06-06T13:29:55.504933366+05:30"
