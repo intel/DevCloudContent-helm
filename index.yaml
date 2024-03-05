@@ -53,6 +53,6 @@ entries:
       name: warehouse
       type: application
       urls:
-        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/genai.tgz
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/warehouse-ri.tgz
       version: 0.1.0
 generated: "2022-10-03T12:12:42.153611472Z"
