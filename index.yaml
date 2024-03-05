@@ -44,4 +44,15 @@ entries:
       urls:
         - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/genai.tgz
       version: 0.1.0
+  warehouse:
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2024-03-05T07:52:55.457Z"
+      description: A Helm chart for detecting defects in warehouse
+      digest: 486399b9d1c002721bc0cc0dea89fef30e1cf30804442d2bbc2a772dbb3fdc83
+      name: warehouse
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/genai.tgz
+      version: 0.1.0
 generated: "2022-10-03T12:12:42.153611472Z"
