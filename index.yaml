@@ -49,7 +49,7 @@ entries:
       appVersion: 1.16.0
       created: "2024-03-05T07:52:55.457Z"
       description: A Helm chart for detecting defects in warehouse
-      digest: e3d98838d2dd36e29b6cc6e79ee1b3ab638df03054e2091093347564b1cfc1f9
+      digest: 34703373284fd0df6bb30b69de8de9a409ff4c3eb0656f9f803a45cc8d7d7141
       name: warehouse
       type: application
       urls:
