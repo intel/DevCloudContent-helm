@@ -49,7 +49,7 @@ entries:
       appVersion: 1.16.0
       created: "2024-02-29T07:52:55.457Z"
       description: A Helm chart for Crashlog Analyser usecase
-      digest: dbde797556db7bf4c756514343f8049152548c76e73f5ae488a282ace61e5ee7
+      digest: 613c1bb103bff61f181182fea2d9e682d607ae797634fcf232eed473b8e2356d
       name: crashlog-analyser
       type: application
       urls:
