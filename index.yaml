@@ -64,8 +64,8 @@ entries:
     name: evam-service
     type: application
     urls:
-    - https://raw.githubusercontent.com/sachinkaushik/DevCloudContent-helm/patch-2/evam-eva-helm-0.1.2.tgz
-    version: 0.1.2 
+    - https://raw.githubusercontent.com/sachinkaushik/DevCloudContent-helm/patch-2/evam-eva-helm-0.1.0.tgz
+    version: 0.1.0 
   dcaas-service:
   - apiVersion: v2
     appVersion: 1.16.0
