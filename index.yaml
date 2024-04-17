@@ -75,7 +75,7 @@ entries:
       name: evam-service
       type: application
       urls:
-        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/thor-dev/evam-eva-helm-0.1.0.tgz
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/thor-dev/evam-eva-helm-0.1.0 1.tgz
       version: 0.1.0
   dcaas-service:
   - apiVersion: v2
@@ -86,6 +86,6 @@ entries:
     name: dcaas-service
     type: application
     urls:
-    - https://raw.githubusercontent.com/sachinkaushik/DevCloudContent-helm/thor-dev/dcaas-helm-chart-eis-0.1.0 14.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/thor-dev/dcaas-helm-chart-eis-0.1.0 14.tgz
     version: 0.1.14
 generated: "2023-08-16T13:24:41.50658633+05:30"
