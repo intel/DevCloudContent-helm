@@ -55,26 +55,26 @@ entries:
       urls:
         - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/crash-log-ri.tgz
       version: 0.1.0
- evam-service:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-06-06T13:29:55.504933366+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 7505a2408cf95d76cd63cd3fd14e39b7ddee8a3ccb53d813e387630342f01f0b
-    name: evam-service
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/evam-eva-helm-0.1.0 1.tgz
-    version: 0.1.1
-dcaas-service:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-06-06T13:29:55.504933366+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 0340681cff234119eba54ddc60e128c94ac90b0c3e15547394f43bcc15ee3d1c
-    name: dcaas-service
-    type: application
-    urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/dcaas-helm-chart-eis-0.1.0 14.tgz
-    version: 0.1.14
+  evam-service:
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-06-06T13:29:55.504933366+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 7505a2408cf95d76cd63cd3fd14e39b7ddee8a3ccb53d813e387630342f01f0b
+      name: evam-service
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/evam-eva-helm-0.1.0 1.tgz
+      version: 0.1.1
+  dcaas-service:
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2023-06-06T13:29:55.504933366+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 0340681cff234119eba54ddc60e128c94ac90b0c3e15547394f43bcc15ee3d1c
+      name: dcaas-service
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/dcaas-helm-chart-eis-0.1.0 14.tgz
+      version: 0.1.14
 generated: "2022-10-03T12:12:42.153611472Z"
