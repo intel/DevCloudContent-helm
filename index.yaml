@@ -82,7 +82,7 @@ entries:
       appVersion: 0.0.6
       created: "2023-06-06T13:29:55.504933366+05:30"
       description: A Helm chart for Kubernetes
-      digest: 0ef650c3c32dacecee03388f7b076ceae8227d202e2728591cec664e83b5a7ba
+      digest: 21e95c386b8fd01bcba4a4126ea15b06cf110a4dceafba34546b5af9fcd941b5
       name: datastore-service
       type: application
       urls:
