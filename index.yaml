@@ -77,4 +77,15 @@ entries:
       urls:
         - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/dcaas-helm-chart-eis-0.1.0 14.tgz
       version: 0.1.14
+  datastore-service:
+    - apiVersion: v2
+      appVersion: 0.0.6
+      created: "2023-06-06T13:29:55.504933366+05:30"
+      description: A Helm chart for Kubernetes
+      digest: 8e1823c350c42f8c22529857611ccacc2373133f6c4e35ca68305ecc97f8e487
+      name: datastore-service
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd/datastore_0.0.6.tgz
+      version: 0.1.14
 generated: "2022-10-03T12:12:42.153611472Z"
