@@ -71,7 +71,7 @@ entries:
       appVersion: 1.16.0
       created: "2023-06-06T13:29:55.504933366+05:30"
       description: A Helm chart for Kubernetes
-      digest: c21f10808bbf56c21e0d601dd0b2b5a046603ac548392be8f61105476ac8fa04
+      digest: ceaa86c389b2818b75249c4096378f8f68f1e7fa6967e6fc1366ec3732271e49
       name: dcaas-service
       type: application
       urls:
