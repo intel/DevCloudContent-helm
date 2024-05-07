@@ -65,7 +65,18 @@ entries:
     type: application
     urls:
     - https://raw.githubusercontent.com/sachinkaushik/DevCloudContent-helm/patch-2/evam-eva-helm-0.1.0 1.tgz
-    version: 0.1.1 
+    version: 0.1.1
+  evam-eii-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-06T13:29:55.504933366+05:30"
+    description: A Helm chart for Kubernetes
+    digest: b65aaa1921238dd1051ffaf6n9797ddkemi8b964d510805cb091f9e80be8mm298
+    name: evam-service
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/sachinkaushik/DevCloudContent-helm/patch-2/evam-eii-helm-0.1.0.tgz
+    version: 0.1.0   
   dcaas-service:
   - apiVersion: v2
     appVersion: 1.16.0
