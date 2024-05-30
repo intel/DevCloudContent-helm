@@ -42,6 +42,6 @@ entries:
     name: scenescape-chart
     type: application
     urls:
-    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/u-dev/scenescape-chart-0.4.0.tgz
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/u-dev/scenescape-chart.tgz
     version: 0.1.0
 generated: "2023-05-19T14:52:34.6051276+05:30"
