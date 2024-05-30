@@ -33,7 +33,7 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/main/itm-https.tgz
     version: 0.1.0
-      wireless-ready-itm:
+  scenescape-chart:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-05-19T14:52:34.6071251+05:30"
