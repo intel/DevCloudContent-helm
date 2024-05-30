@@ -33,4 +33,15 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/main/itm-https.tgz
     version: 0.1.0
+      wireless-ready-itm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-19T14:52:34.6071251+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 02c689e05a547f85c9f665987ac11f7670fbfe4b0ab4f1c872e8c7ff4ee65e69
+    name: scenescape-chart
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/intel/DevCloudContent-helm/dev/scenescape-chart-0.4.0.tgz
+    version: 0.1.0
 generated: "2023-05-19T14:52:34.6051276+05:30"
