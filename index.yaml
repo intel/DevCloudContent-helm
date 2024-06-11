@@ -33,7 +33,7 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/main/itm-https.tgz
     version: 0.1.0
-  scenescape-chart:
+  scenescape:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-05-19T14:52:34.6071251+05:30"
@@ -44,7 +44,7 @@ entries:
     urls:
     - https://raw.githubusercontent.com/intel/DevCloudContent-helm/u-dev/scenescape-chart-0.4.0.tgz
     version: 0.1.0
-  scenescape-chart-thor:
+  scenescapeT:
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-05-19T14:52:34.6071251+05:30"
