@@ -58,13 +58,24 @@ entries:
   genai:
     - apiVersion: v2
       appVersion: 1.16.0
-      created: "2024-02-21T13:10:56.141Z"
+      created: "2024-02-29T07:52:55.457Z"
       description: A Helm chart for GenAI production support usecase
-      digest: ec8898dc805ef3f9feaea56573f598d998f70138cbc81bb1dd8389013528f555
+      digest: 03bc3cb7af78656e204ba3dbcafef98fed6a177d28c0e353515400505001791d
       name: genai
       type: application
       urls:
         - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prc/genai.tgz
+      version: 0.1.0
+  crashlog-analyser:
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2024-02-29T07:52:55.457Z"
+      description: A Helm chart for Crashlog Analyser usecase
+      digest: c3838c503ca2c0bbcd5daf570306f572adf93a7c74995e30d36d0074afdcdb6c
+      name: crashlog-analyser
+      type: application
+      urls:
+        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/okd-prc/crash-log-ri.tgz
       version: 0.1.0
   evam-service:
     - apiVersion: v2
